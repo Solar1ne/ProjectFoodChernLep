@@ -1,2 +1,2 @@
 # ProjectFoodChernLep
-Grading of ♂Mephi♂ set meals
+Grading of Mephi set meals
